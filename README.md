@@ -1,6 +1,6 @@
 # npmdoc-angular-resource
 
-#### api documentation for  [angular-resource (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-resource.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-resource) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-resource.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-resource)
+#### basic api documentation for  [angular-resource (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-resource.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-resource) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-resource.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-resource)
 
 #### AngularJS module for interacting with RESTful server-side data sources
 
@@ -72,7 +72,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.6.4"
+    "version": "1.6.4",
+    "bin": {}
 }
 ```
 
